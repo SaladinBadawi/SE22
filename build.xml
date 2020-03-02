@@ -12,9 +12,9 @@
 
 
     <path id="NecessaryLibraries">
-        <pathelement location="D:/eclipse-workspace/SE2/W/junit-4.12.jar"/>
+        <pathelement location="home/downloads/SE22-master/SE2/W/hamcrest-core-1.3.jar"/>
         <!--matcher-->
-        <pathelement location="D:/eclipse-workspace/SE2/W/hamcrest-core-1.3.jar"/>
+        <pathelement location="home/downloads/SE2/W/junit-4.12.jar"/>
         <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
     </path>
 
